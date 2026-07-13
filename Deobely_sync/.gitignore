@@ -1,0 +1,50 @@
+## .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.cachefile
+*.pdb
+*.exe
+*.dll
+.vs/
+.vscode/
+.idea/
+.vsconfig
+
+## Publish output
+publish/
+PubTmp/
+*.rar
+*.zip
+*.7z
+
+## Logs
+*.log
+Logs/*.txt
+!Logs/.gitkeep
+
+## Sensitive - secrets & credentials
+*.json
+!appsettings.json
+!appsettings.*.json
+appsettings.Development.json
+appsettings.Local.json
+**/key.json
+**/service-account*.json
+**/*.pfx
+**/*.p12
+**/*.keystore
+.env
+.env.*
+!.env.example
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Temporary files
+*.tmp
+*.bak
+~$*
