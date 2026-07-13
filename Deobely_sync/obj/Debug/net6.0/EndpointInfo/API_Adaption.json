@@ -1,0 +1,1435 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "API_Adaption",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Authentication/login": {
+      "post": {
+        "tags": [
+          "Authentication"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Authentication/refresh-token": {
+      "post": {
+        "tags": [
+          "Authentication"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRefreshTokenModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRefreshTokenModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRefreshTokenModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Log": {
+      "get": {
+        "tags": [
+          "Authentication"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Contract/AddNew": {
+      "post": {
+        "tags": [
+          "Contract"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ContractModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ContractModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ContractModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Customer/AddNew": {
+      "post": {
+        "tags": [
+          "Customer"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/MatBao/GetInvoice": {
+      "post": {
+        "tags": [
+          "MatBao"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReqParamModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReqParamModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReqParamModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "MatBao"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/LINH_TEST": {
+      "get": {
+        "tags": [
+          "MatBao"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/CA_TEST": {
+      "get": {
+        "tags": [
+          "MatBao"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Order/create": {
+      "post": {
+        "tags": [
+          "Order"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrderModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/test": {
+      "post": {
+        "tags": [
+          "Product"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Product/getproduct/{ma_vt2}": {
+      "post": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "ma_vt2",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Product/CreateProduct": {
+      "post": {
+        "tags": [
+          "Product"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductInsertModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductInsertModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductInsertModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Tbc/CreateInvoice": {
+      "post": {
+        "tags": [
+          "Tbc"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbcModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbcModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbcModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Tbc/PhieuNhap": {
+      "post": {
+        "tags": [
+          "Tbc"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbcModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbcModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbcModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Tbc/PhieuNhapV2": {
+      "post": {
+        "tags": [
+          "Tbc"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": { }
+            },
+            "text/json": {
+              "schema": { }
+            },
+            "application/*+json": {
+              "schema": { }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Test": {
+      "get": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Version": {
+      "get": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/CallBackUrl": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": { }
+            },
+            "text/json": {
+              "schema": { }
+            },
+            "application/*+json": {
+              "schema": { }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/ResetAccesToken": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Webhook": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": { }
+            },
+            "text/json": {
+              "schema": { }
+            },
+            "application/*+json": {
+              "schema": { }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Webhook/abc": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Webhook/ResetToken": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Webhook/GetCity": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Webhook/GetDistrict": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Webhook/GetWard": {
+      "post": {
+        "tags": [
+          "WebHookNhanh"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Billing": {
+        "type": "object",
+        "properties": {
+          "phone": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "address": {
+            "type": "string",
+            "nullable": true
+          },
+          "quan": {
+            "type": "string",
+            "nullable": true
+          },
+          "tinh": {
+            "type": "string",
+            "nullable": true
+          },
+          "phuong": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ContractModel": {
+        "type": "object",
+        "properties": {
+          "nh_hd1": {
+            "type": "string",
+            "nullable": true
+          },
+          "ma_hd": {
+            "type": "string",
+            "nullable": true
+          },
+          "ten_hd": {
+            "type": "string",
+            "nullable": true
+          },
+          "loai_hd": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngay_hd": {
+            "type": "string",
+            "nullable": true
+          },
+          "tien_dc": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_hh_tr_vat": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_vat": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_sau_vat": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_psinh": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_cp_khac": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_kmai": {
+            "type": "string",
+            "nullable": true
+          },
+          "sum_phi_dkxe": {
+            "type": "string",
+            "nullable": true
+          },
+          "customer": {
+            "$ref": "#/components/schemas/CustomerModel"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerModel": {
+        "type": "object",
+        "properties": {
+          "ma_kh": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tinh_thanh": {
+            "type": "string",
+            "nullable": true
+          },
+          "quan_huyen": {
+            "type": "string",
+            "nullable": true
+          },
+          "ten_kh": {
+            "maxLength": 128,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ten_kh2": {
+            "maxLength": 128,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh1": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh2": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh3": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh4": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh5": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh6": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh7": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh8": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "nh_kh9": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "gc_td2": {
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_so_thue": {
+            "maxLength": 18,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "dien_thoai": {
+            "maxLength": 32,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "e_mail": {
+            "maxLength": 48,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "doi_tac": {
+            "maxLength": 128,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "kh_yn": {
+            "type": "boolean"
+          },
+          "ncc_yn": {
+            "type": "boolean"
+          },
+          "tk": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ngan_hang": {
+            "maxLength": 64,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ghi_chu": {
+            "maxLength": 500,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ds_dvcs": {
+            "maxLength": 512,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "dia_chi": {
+            "maxLength": 512,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "status": {
+            "maxLength": 1,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "loai_hinh": {
+            "maxLength": 1,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Item": {
+        "type": "object",
+        "properties": {
+          "ma_vt": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "number",
+            "format": "double"
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "total": {
+            "type": "number",
+            "format": "double"
+          },
+          "subtotal": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "OrderModel": {
+        "type": "object",
+        "properties": {
+          "createDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "shipping_Fee": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "paymentMethod": {
+            "type": "string",
+            "nullable": true
+          },
+          "totalPrice": {
+            "type": "number",
+            "format": "double"
+          },
+          "totalDiscountPrice": {
+            "type": "number",
+            "format": "double"
+          },
+          "coupon": {
+            "type": "string",
+            "nullable": true
+          },
+          "billing": {
+            "$ref": "#/components/schemas/Billing"
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Item"
+            },
+            "nullable": true
+          },
+          "orderNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "vat": {
+            "$ref": "#/components/schemas/VAT"
+          },
+          "pickUp": {
+            "type": "string",
+            "nullable": true
+          },
+          "note": {
+            "type": "string",
+            "nullable": true
+          },
+          "tranferInfo": {
+            "$ref": "#/components/schemas/TranferInfo"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductInsertModel": {
+        "type": "object",
+        "properties": {
+          "ma_vt": {
+            "type": "string",
+            "nullable": true
+          },
+          "ten_vt": {
+            "type": "string",
+            "nullable": true
+          },
+          "dvt": {
+            "type": "string",
+            "nullable": true
+          },
+          "loai_vt": {
+            "type": "string",
+            "nullable": true
+          },
+          "nh_vt1": {
+            "type": "string",
+            "nullable": true
+          },
+          "nh_vt2": {
+            "type": "string",
+            "nullable": true
+          },
+          "nh_vt3": {
+            "type": "string",
+            "nullable": true
+          },
+          "nuoc_sx": {
+            "type": "string",
+            "nullable": true
+          },
+          "xcolor": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ReqParamModel": {
+        "type": "object",
+        "properties": {
+          "apiInvPattern": {
+            "type": "string",
+            "nullable": true
+          },
+          "apiInvSerial": {
+            "type": "string",
+            "nullable": true
+          },
+          "fromDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "toDate": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbcDetailModel": {
+        "required": [
+          "ck",
+          "gia_nt2",
+          "so_luong",
+          "tien_nt2",
+          "tl_ck"
+        ],
+        "type": "object",
+        "properties": {
+          "diem": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "dien_giai_km": {
+            "type": "string",
+            "nullable": true
+          },
+          "tk_gv": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tk_cpbh": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tk_ck": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tk_dt": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tk_cpkm": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_ck": {
+            "type": "string",
+            "nullable": true
+          },
+          "tk_vt": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_vt": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "dvt": {
+            "maxLength": 10,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_lo": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "so_luong": {
+            "type": "number",
+            "format": "float"
+          },
+          "gia2": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "gia_nt2": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float"
+          },
+          "tien2": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "tien_nt2": {
+            "type": "number",
+            "format": "float"
+          },
+          "tl_ck": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float"
+          },
+          "ck": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float"
+          },
+          "ck_nt": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "tt": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "tt_nt": {
+            "type": "number",
+            "format": "float"
+          },
+          "gc_td1": {
+            "maxLength": 24,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_td3": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_bp": {
+            "type": "string",
+            "nullable": true
+          },
+          "ma_vv": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_phi": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "km_yn": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbcModel": {
+        "required": [
+          "ma_dvcs",
+          "ma_kh",
+          "ngay_ct",
+          "thue_suat"
+        ],
+        "type": "object",
+        "properties": {
+          "diem_tl": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_diem_dh": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "ma_ck": {
+            "type": "string",
+            "nullable": true
+          },
+          "t_diem_so": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "ma_thue": {
+            "maxLength": 256,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tk": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_gd": {
+            "maxLength": 2,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "status": {
+            "maxLength": 1,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_dvcs": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string"
+          },
+          "ngay_ct": {
+            "type": "string"
+          },
+          "ma_nt": {
+            "maxLength": 3,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ty_gia": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "ma_nx": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_kh": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string"
+          },
+          "t_tien2": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_tien_nt2": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_ck": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_ck_nt": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_thue": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_thue_nt": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_tt": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "t_tt_nt": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float"
+          },
+          "thue_suat": {
+            "pattern": "^-?\\d+$.?\\d{0,2}$",
+            "type": "number",
+            "format": "float"
+          },
+          "tk_thue_no": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "tk_thue_co": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_nvbh": {
+            "maxLength": 8,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "ma_bp": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "so_dh": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "loai_ct": {
+            "maxLength": 1,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "dd_gh": {
+            "maxLength": 225,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "fcode1": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "fcode2": {
+            "maxLength": 16,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "kenhbanhang": {
+            "maxLength": 50,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "dien_giai": {
+            "maxLength": 512,
+            "type": "string",
+            "format": "string",
+            "nullable": true
+          },
+          "so_ct_dms": {
+            "type": "string",
+            "nullable": true
+          },
+          "detail": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbcDetailModel"
+            },
+            "nullable": true
+          },
+          "so_ct0": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngay_ct0": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TranferInfo": {
+        "type": "object",
+        "properties": {
+          "bank_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "bank_account_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "bank_account_number": {
+            "type": "string",
+            "nullable": true
+          },
+          "order_total": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "discount_value": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "payment_status": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserModel": {
+        "type": "object",
+        "properties": {
+          "userName": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserRefreshTokenModel": {
+        "required": [
+          "refreshToken",
+          "token"
+        ],
+        "type": "object",
+        "properties": {
+          "token": {
+            "type": "string"
+          },
+          "refreshToken": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "VAT": {
+        "type": "object",
+        "properties": {
+          "vat_id": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "vat_address": {
+            "type": "string",
+            "nullable": true
+          },
+          "vat_name": {
+            "type": "string",
+            "nullable": true
+          },
+          "vat_email": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Bearer Authentication with JWT Token",
+        "scheme": "Bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}

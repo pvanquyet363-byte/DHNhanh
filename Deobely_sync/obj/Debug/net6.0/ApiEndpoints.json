@@ -1,0 +1,340 @@
+[
+  {
+    "ContainingType": "API_Adaption.Controllers.MatBaoController",
+    "Method": "Get",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.AuthenticationController",
+    "Method": "refreshToken",
+    "RelativePath": "api/Authentication/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.UserRefreshTokenModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.ContractController",
+    "Method": "CreateContract",
+    "RelativePath": "api/Contract/AddNew",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.ContractModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Auto_Api.Controllers.CustomerController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/Customer/AddNew",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.CustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.OrderModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.ProductInsertModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "api/Product/getproduct/{ma_vt2}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ma_vt2",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.TbcController",
+    "Method": "CreateInvoice",
+    "RelativePath": "api/Tbc/CreateInvoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.TbcModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.TbcController",
+    "Method": "CreateInvoice2",
+    "RelativePath": "api/Tbc/PhieuNhap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Deobely_sync.Model.TbcModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.TbcController",
+    "Method": "CreateInvoice3",
+    "RelativePath": "api/Tbc/PhieuNhapV2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.MatBaoController",
+    "Method": "CA_TEST",
+    "RelativePath": "CA_TEST",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "PostTest",
+    "RelativePath": "CallBackUrl",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "val",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.MatBaoController",
+    "Method": "LINH_TEST",
+    "RelativePath": "LINH_TEST",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.AuthenticationController",
+    "Method": "GetLog",
+    "RelativePath": "Log",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.MatBaoController",
+    "Method": "GetInvoice",
+    "RelativePath": "MatBao/GetInvoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "API_Adaption.Model.ReqParamModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "ResetAccesToken",
+    "RelativePath": "ResetAccesToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Deobely_sync.Controllers.ProductController",
+    "Method": "Test",
+    "RelativePath": "test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "Test",
+    "RelativePath": "Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "Version",
+    "RelativePath": "Version",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "Webhook",
+    "RelativePath": "Webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "val",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "ResetToken2",
+    "RelativePath": "Webhook/abc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "GetCity",
+    "RelativePath": "Webhook/GetCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "GetDistrict",
+    "RelativePath": "Webhook/GetDistrict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "GetWard",
+    "RelativePath": "Webhook/GetWard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Adaption.Controllers.WebHookNhanhController",
+    "Method": "ResetToken",
+    "RelativePath": "Webhook/ResetToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,417 @@
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.Development.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Service\Impliment\key.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.exe
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.deps.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.runtimeconfig.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.pdb
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\AO.Models.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\ModelSync.Library.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\AspNetCoreRateLimit.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Core.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Identity.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.Base.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.ChangeTracking.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.SqlServer.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.Transaction.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.CommonProtos.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.Grpc.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Core.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Cloud.Translate.V3.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.LongRunning.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Protobuf.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Auth.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Core.Api.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Client.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Common.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Coordination.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Tasks.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Collections.Deque.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Disposables.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\NLog.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Drawing.Common.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IO.Packaging.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Permissions.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.AssemblyReference.cache
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfoInputs.cache
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfo.cs
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.CoreCompileInputs.cache
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cs
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cache
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.sourcelink.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.development.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets\msbuild.API_Adaption.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets\msbuild.build.API_Adaption.props
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_Adaption.props
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.API_Adaption.props
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.pack.json
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\scopedcss\bundle\API_Adaption.styles.css
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adap.7F5FC41F.Up2Date
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\refint\API_Adaption.dll
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.pdb
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.genruntimeconfig.cache
+D:\SSE\ICHNHAN\ichnhan_api\Deobely_sync\obj\Release\net6.0\ref\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.Development.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Service\Impliment\key.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.staticwebassets.endpoints.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.exe
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.deps.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.runtimeconfig.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.pdb
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\AO.Models.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\ModelSync.Library.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\AspNetCoreRateLimit.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Core.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Identity.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.Base.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.ChangeTracking.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.SqlServer.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.Transaction.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.CommonProtos.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.Grpc.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Core.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Cloud.Translate.V3.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.LongRunning.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Protobuf.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Auth.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Core.Api.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Client.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Common.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Coordination.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Tasks.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Collections.Deque.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Disposables.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\NLog.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Drawing.Common.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IO.Packaging.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Permissions.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.AssemblyReference.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfoInputs.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfo.cs
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.CoreCompileInputs.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cs
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.sourcelink.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\scopedcss\bundle\API_Adaption.styles.css
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.development.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.endpoints.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adap.7F5FC41F.Up2Date
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\refint\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.pdb
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.genruntimeconfig.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\ref\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\rpswa.dswa.cache.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjimswa.dswa.cache.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjsmrazor.dswa.cache.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjsmcshtml.dswa.cache.json
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\swae.build.ex.cache
+E:\ThuânSSE\ichnhan_api\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.Development.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Service\Impliment\key.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.staticwebassets.endpoints.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.exe
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.deps.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.runtimeconfig.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.pdb
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\AO.Models.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\ModelSync.Library.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\AspNetCoreRateLimit.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Core.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Identity.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.Base.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.ChangeTracking.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.SqlServer.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.Transaction.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.CommonProtos.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.Grpc.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Core.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Cloud.Translate.V3.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.LongRunning.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Protobuf.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Auth.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Core.Api.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Client.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Common.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Coordination.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Tasks.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Collections.Deque.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Disposables.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\NLog.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Drawing.Common.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IO.Packaging.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Permissions.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.AssemblyReference.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\rpswa.dswa.cache.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfoInputs.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfo.cs
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.CoreCompileInputs.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cs
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.sourcelink.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjimswa.dswa.cache.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjsmrazor.dswa.cache.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjsmcshtml.dswa.cache.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\scopedcss\bundle\API_Adaption.styles.css
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.development.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.endpoints.json
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\swae.build.ex.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adap.7F5FC41F.Up2Date
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\refint\API_Adaption.dll
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.pdb
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.genruntimeconfig.cache
+E:\ThuânSSE\ichnhan_api - Copy\ichnhan_api\Deobely_sync\obj\Release\net6.0\ref\API_Adaption.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Service\Impliment\key.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.staticwebassets.endpoints.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\appsettings.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.exe
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.deps.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.runtimeconfig.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\API_Adaption.pdb
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\AO.Models.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\ModelSync.Library.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\AspNetCoreRateLimit.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Core.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.Base.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.ChangeTracking.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.CX.SqlServer.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Dapper.Transaction.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Auth.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Apis.Core.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Cloud.Translate.V3.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.LongRunning.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Google.Protobuf.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Auth.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Core.Api.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Client.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Grpc.Net.Common.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Coordination.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.AsyncEx.Tasks.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Collections.Deque.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Nito.Disposables.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\NLog.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.IO.Packaging.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\rpswa.dswa.cache.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.sourcelink.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\scopedcss\bundle\API_Adaption.styles.css
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.json.cache
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adap.7F5FC41F.Up2Date
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\refint\API_Adaption.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.pdb
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\API_Adaption.genruntimeconfig.cache
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\obj\Release\net6.0\ref\API_Adaption.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Polly.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\Polly.Extensions.Http.dll
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\web.config
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\API_Adaption.deps.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\API_Adaption.runtimeconfig.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\API_Adaption.staticwebassets.endpoints.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\appsettings.Development.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\appsettings.json
+C:\Users\Admin\Downloads\ichnhan_api_thue_2026\ichnhan_api\Deobely_sync\bin\Release\net6.0\public\Service\Impliment\key.json
