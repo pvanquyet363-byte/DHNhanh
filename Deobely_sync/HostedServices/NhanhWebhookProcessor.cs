@@ -65,6 +65,12 @@ namespace Deobely_sync.HostedServices
             {
                 var order = JsonConvert.DeserializeObject<OrderNhanhResModel>(item.RawPayload);
                 if (order == null) return;
+                if (!string.Equals(order.Status, "Confirmed", StringComparison.Ordinal))
+                {
+                    APILog.ApiLog.logval("webhook_skip_not_confirmed_add",
+                        $"orderId={item.OrderId}, status={order.Status}");
+                    return;
+                }
                 int result = await hook.AddOrder(order);
                 APILog.ApiLog.logval("webhook_add_result",
                     $"orderId={item.OrderId}, result={result}");
