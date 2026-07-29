@@ -102,7 +102,7 @@ namespace Deobely_sync.Service.Impliment
                 "ma_dvcs,ngay_ct,ma_nt,ty_gia,ma_nx,ma_kh,t_tien2,t_tien_nt2,t_ck,t_ck_nt,t_thue,t_thue_nt,t_tt,t_tt_nt,thue_suat,tk_thue_no,tk_thue_co,ma_nvbh,fcode1,dien_giai,so_seri,ma_gd,tk,ma_thue,so_dh,loai_ct, ong_ba, dia_chi,so_ct_dms,job_id)  ";
                 sql += Environment.NewLine + $"values('0', @rec,@ma_ct," +
                            $" '{order.OrderId}'," +
-                           $"'CTY',@ngay_ct,'VND','1','','{order.CustomerMobile}',0,0,0,0,0,0,0,0,0,0,0,'','',N'{order.ShopOrderId}', '','2','','','{order.OrderId}','2', '{order.CustomerName}',N'{order.(order.CustomerAddress ?? "").Replace("'", " ")}','{order.OrderId}','{order.SaleChannel}'" +
+                           $"'CTY',@ngay_ct,'VND','1','','{order.CustomerMobile}',0,0,0,0,0,0,0,0,0,0,0,'','',N'{order.ShopOrderId}', '','2','','','{order.OrderId}','2', '{order.CustomerName}',N'{(order.CustomerAddress ?? "").Replace("'", " ")}','{order.OrderId}','{order.SaleChannel}'" +
                    ")";
 
                 int line_id = 0;
